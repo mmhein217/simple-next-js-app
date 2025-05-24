@@ -12,7 +12,7 @@ export default function Home() {
         fontWeight: 'bold',
         color: '#333'
       }}>
-        Hello, World
+        Hello, World Version 1 !
       </h1>
     </div>
   );
